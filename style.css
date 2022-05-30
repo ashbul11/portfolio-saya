@@ -21,7 +21,7 @@ header h1  a {
 }
 
 header h1 a:hover{
-    color: #C70039  ;
+    color: #072f75  ;
 }
 
 header ul {
@@ -94,11 +94,11 @@ a {
 }
 
 .sidebar ul li:hover {
-    background-color: red;
+    background-color: #072f75;
 }
 
 .banner {
-    background-color: #C70039 ;
+    background-color: #072f75;
     padding: 150px 0;
 }
 
@@ -153,7 +153,7 @@ section h3::after {
     bottom: -1px;
     width: 40px;
     height: 4px;
-    background-color: #C70039;
+    background-color: #072f75;
     left: calc(50% - 20px);
 }
 #about p {
@@ -164,12 +164,12 @@ section h3::after {
     font-family: sans-serif;
 }
 
-#skill,
+#skills,
 #contact {
     background-color: #f9f9f9;
 }
 
-#skill .bar {
+#skills .bar {
     height: 30px;
     background-color: #fff;
     border: 1px solid #ddd;
@@ -178,11 +178,12 @@ section h3::after {
 
 .bar .nilai {
     height: 30px;
-    background-color: #C70039;
+    background-color: #072f75;
     display: inline-block;
     color: #fff;
     text-align: center;
 }
+
 
 .html {
     width: 30% ;
